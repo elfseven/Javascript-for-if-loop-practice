@@ -1,0 +1,12 @@
+题目1:输出50内的3的倍数
+
+<script>
+for (i=1;i<=50;i++){
+ if (i%3==0){
+ document.write(i+"<br>")
+ }
+}
+</script>
+
+
+题目2:
